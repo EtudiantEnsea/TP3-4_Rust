@@ -1,4 +1,4 @@
-<h1 align="center"> Firmware Embarqué Rust - Embassy & Périphériqueso </h1>
+<h1 align="center"> Firmware Embarqué Rust - Embassy & Périphérique </h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
