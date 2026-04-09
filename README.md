@@ -75,7 +75,7 @@ src/
 
 ## Utilisation
 
-```sh
+```
 cargo run --bin bargraph_example
 cargo run --bin gamepad_example
 cargo run --bin encoder_example
