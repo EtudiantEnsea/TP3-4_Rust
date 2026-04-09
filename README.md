@@ -84,7 +84,7 @@ cargo run --bin encoder_example
 ---
 
 ## Prérequis
-
+---
 Rust installé
 probe-rs installé
 Carte STM32 Nucleo-64 L476RG
