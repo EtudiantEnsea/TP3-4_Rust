@@ -86,12 +86,10 @@ cargo run --bin encoder_example
 ## Prérequis
 
 Rust installé
-
-
-Rust installé
 probe-rs installé
-Carte STM32 Nucleo-64 L476RG
-Carte d’extension ENSEA
+carte STM32 Nucleo-64 L476RG
+Carte dd'extension ENSEA
+
 ---
 
 ## Auteur
